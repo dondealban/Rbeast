@@ -263,6 +263,7 @@ Despite being published originally for ecological and enviornmental applications
 
 BEAST is distributed as is and without warranty of suitability for application. The one distributed above is still a beta version, with potential room for further improvement. If you encounter flaws with the software (i.e. bugs) please report the issue. Providing a detailed description of the conditions under which the bug occurred will help to identify the bug, you can directly email its maintainer Dr. Kaiguang Zhao at zhao.1423@osu.edu. Alternatively, Use the [Issues tracker](https://github.com/zhaokg/Rbeast/issues) on GitHub to report issues with the software and to request feature enhancements. 
 
+
 ## Acknowledgement:
 
-The initial version of BEAST was supported by a USGS 104B grant before 2019. The continous development afterwards is made possible by the support of a Harmful Algal Bloom Research Initiative grant from the Ohio Department of Higher Education.
+BEAST is developed by Yang Li, Tongxi Hu, Xuesong Zhanng, and Kaiguang Zhao. The initial version of BEAST was supported by a USGS 104B grant before 2019. The continous development afterwards is made possible by the support of a Harmful Algal Bloom Research Initiative grant from the Ohio Department of Higher Education. The contribution of Xuesong Zhang was supported through USDA-ARS.
