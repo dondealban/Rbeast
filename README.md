@@ -266,4 +266,4 @@ BEAST is distributed as is and without warranty of suitability for application. 
 
 ## Acknowledgement:
 
-BEAST is developed by Yang Li, Tongxi Hu, Xuesong Zhanng, and Kaiguang Zhao. The initial version of BEAST was supported by a USGS 104B grant before 2019. The continous development afterwards is made possible by the support of a Harmful Algal Bloom Research Initiative grant from the Ohio Department of Higher Education. The contribution of Xuesong Zhang was supported through USDA-ARS.
+BEAST is developed by Yang Li, Tongxi Hu, Xuesong Zhang, and Kaiguang Zhao. The development of BEAST received supported through a USGS 104B grant and a Harmful Algal Bloom Research Initiative grant from the Ohio Department of Higher Education. The contribution of Xuesong Zhang was supported through USDA-ARS.
